@@ -1,0 +1,398 @@
+RepOS Brand Guidelines
+
+
+Brand Essence
+Positioning: Your AI partner who makes you superhuman
+Core Concept: Intelligence as revelation. A vast dark space with a pink door that sales reps walk through to see what others can't. Once inside, they have X-ray vision into every deal.
+Metaphor: Taking the limitless drug. Seeing behind the curtain. The Matrix unplugged. Mission control at 2am.
+
+Voice & Tone
+Personality: Intelligent revelation with playful confidence
+The Balance:
+* 90% intelligent, revealing, direct
+* 10% knowing wink, playful confidence
+Guidelines
+DO:
+* Make them feel like they have X-ray vision
+* Frame it as seeing the truth others miss
+* "The dots were always there. Now you connect them."
+* Intelligence as the unfair advantage
+* Quiet confidence, not loud hype
+* Occasional dry wit / knowing humor
+* Self-aware about how powerful this is
+DON'T:
+* Dad jokes or puns
+* Meme culture or trying too hard
+* Self-deprecating (we're powerful, not apologetic)
+* Cheerleading or motivation ("You can do it!")
+* Breaking the "we know things" mystique
+Example Copy
+Good Examples:
+* "See what your competition can't. (It's a lot.)"
+* "Everyone's Googling. You're knowing."
+* "The dots were always there. We just connected them. You're welcome."
+* "That took you 30 seconds. Their team is still Googling."
+* "Ready to see behind the curtain? (No going back.)"
+Bad Examples:
+* "Stop losing to competitors!"
+* "You're already amazing!"
+* "The revolutionary sales tool!"
+
+Color System
+Foundation (The Vastness)
+Color	Hex	Usage
+Deep Space	#0A0D14	Backgrounds, the void
+Dark Navy	#0F1729	Elevated surfaces
+Prussian	#003153	Cards, panels, highest elevation
+Usage: Creates three layers of depth. Deep Space is the base, surfaces lift to Dark Navy, cards/modals lift to Prussian.
+The Portal (The Only Accent That Matters)
+Color	Hex
+Hot Pink	#FF006E
+Usage:
+* Brand/Marketing: 30-40% presence (CTAs, logo accent, key moments, "step through" invitations)
+* Product/App: 5-10% presence (command triggers, critical notifications, key insights)
+When to use pink:
+* Primary CTAs and actions
+* The ">" in the logo
+* Moments of access or activation
+* Critical insights that change the game
+* "Something important just happened"
+When NOT to use pink:
+* General UI elements
+* Body text or labels
+* Decorative purposes
+* Multiple elements on same screen (use sparingly)
+Intelligence Layer (Not Color, Just Clarity)
+Color	Hex	Usage
+White	#FFFFFF	Primary text, UI
+Light Gray	#A1A1AA	Secondary text
+Dark Gray	#52525B	Tertiary text, borders, disabled states
+Usage: All text, all data, all UI labels. Let typography and hierarchy do the work, not color.
+Wins & Achievements (1% Usage)
+Color	Hex
+Gold	#FFD700
+Usage: ONLY for:
+* Deal closed confirmations
+* Major milestones hit
+* Achievement badges
+* "Holy shit" moments
+Never use gold for:
+* General highlights
+* Regular success states
+* Premium features (use pink)
+* Multiple instances on one screen
+
+Typography
+Brand Typography (Marketing, Social, First Impressions)
+Display Headlines:
+* Font: Clash Display Bold (700)
+* Source: Fontshare
+* Usage: Hero headlines, section titles, impact moments
+* Character: Thick, geometric, confident, unapologetic
+Subheadings:
+* Font: Inter Display Semibold (600)
+* Source: rsms.me/inter
+* Usage: Bridge between headlines and body, feature descriptions
+* Character: Modern, clean, professional
+Body Copy:
+* Font: Inter Regular (400-500)
+* Source: rsms.me/inter
+* Usage: All body text, descriptions, longer content
+* Character: Readable, neutral, proven
+Product Typography (The Actual App)
+All Interface:
+* Font: Inter
+* Weights: Regular (400), Medium (500), Semibold (600)
+* Usage: Everything in the product UI
+* Why: Proven readability, excellent hierarchy, works at all sizes
+Technical/Data:
+* Font: JetBrains Mono
+* Source: JetBrains
+* Usage: Account IDs, code snippets, technical fields, monospaced data
+* Why: Clear distinction for technical content
+Typography Scale
+Element	Size	Font	Weight
+Display (Hero)	64-72px	Clash Display	Bold (700)
+H1 (Section)	48-56px	Clash Display	Bold (700)
+H2 (Subsection)	32-40px	Inter Display	Semibold (600)
+H3 (Card Title)	24-28px	Inter	Semibold (600)
+Body Large	18-20px	Inter	Regular (400)
+Body	16px	Inter	Regular (400)
+Body Small	14px	Inter	Regular (400)
+Caption	12px	Inter	Medium (500)
+Type Treatments
+Headlines:
+* Use Clash Display at large sizes
+* Tight line-height (1.1-1.2)
+* Letter-spacing: -0.02em
+* Can split lines with different opacity/color for hierarchy
+Body Text:
+* Line-height: 1.6-1.7
+* Max width: 65-75 characters
+* Use gray hierarchy (white → light gray → dark gray)
+
+Logo & Brand Mark
+The Mark: R>
+Structure:
+* R: White (#FFFFFF) - The foundation, the user, the base
+* >: Hot Pink (#FF006E) - The portal, the activation, the command
+Meaning:
+* R = You, the rep, the foundation
+* > = The activation, the door through, the command prompt, forward momentum
+Typography: Custom drawn to balance with Clash Display's weight
+Clear Space: Minimum padding of 1x the height of the R on all sides
+Minimum Size:
+* Digital: 24px height
+* Print: 0.5 inches height
+Lockups
+* Primary: R> RepOS (mark + wordmark)
+* Icon Only: R> (for app icons, favicons, social avatars)
+* Wordmark Only: RepOS in Clash Display (when mark doesn't work)
+Logo Don'ts
+* ❌ Don't change colors (R and > must be white and pink)
+* ❌ Don't rotate or skew
+* ❌ Don't add effects, shadows, or outlines
+* ❌ Don't place on busy backgrounds (use simple dark or light only)
+* ❌ Don't recreate or retype - use official files
+
+Visual Style
+Core Aesthetic: The Intelligence Club
+Concept: Dark, moody, exclusive-feeling but not gatekeepy. Like walking into a war room at 2am where the real decisions get made. Mission control vibes. You just got clearance.
+Visual Principles
+1. Dark > Light Always
+* Default to dark backgrounds
+* Light mode is not the priority
+* Everything feels lit from within
+2. Product is the Hero
+* Show actual UI, not abstractions
+* Real data (anonymized), not Lorem Ipsum
+* Multiple interface states visible
+* Command palette open showing power
+3. Depth Through Layers
+* Use the three dark colors to create elevation
+* Subtle shadows that lift elements
+* Glow effects on interactive elements
+* Nothing flat - everything has depth
+4. Generous Whitespace
+* Even on dark, give elements room to breathe
+* Centered, confident layouts
+* Let the product float in the darkness
+* Clean is smart
+5. Subtle Motion
+* Gentle animations, never jarring
+* Glow pulses on CTAs
+* Smooth transitions
+* Feels alive but calm
+Photography & Imagery
+DO:
+* ✅ Dark, moody product screenshots
+* ✅ UI floating on dark backgrounds
+* ✅ Glowing elements with subtle halos
+* ✅ Real interface states with real data
+* ✅ Command-driven workflows visible
+* ✅ Multiple screens showing depth
+DON'T:
+* ❌ Stock photos of salespeople
+* ❌ Bright, cheerful backgrounds
+* ❌ Generic "collaboration" imagery
+* ❌ Busy, cluttered layouts
+* ❌ Anything that feels like every other SaaS site
+UI Component Style
+Cards:
+* Background: Prussian (#003153)
+* Border: None or 1px Dark Gray
+* Border radius: 12-16px
+* Shadow: Subtle, lifting effect
+* Padding: Generous (24-32px)
+Buttons:
+* Primary: Hot Pink fill, white text
+* Secondary: Pink border, pink text, transparent fill
+* Tertiary: White text, no background, subtle hover
+* Border radius: 8px
+* Padding: 12px 24px (standard), 16px 32px (large)
+Inputs:
+* Background: Dark Navy (#0F1729)
+* Border: 1px Dark Gray, focus → Pink
+* Text: White
+* Placeholder: Light Gray
+* Border radius: 8px
+Badges/Pills:
+* Background: Pink with 10% opacity
+* Text: Pink
+* Border radius: 6px
+* Padding: 4px 12px
+
+Usage Guidelines
+Brand/Marketing Usage (30-40% Pink)
+Where pink shows up heavily:
+* Primary CTA buttons
+* Logo accent (the >)
+* Key moments in hero sections
+* "Step through" invitations
+* Sign-up flows and access gates
+* Navigation active states
+* Social media accent color
+Structure:
+* Dark background (Deep Space or Dark Navy)
+* White typography dominates
+* Pink used for critical actions and moments
+* Gold appears maybe once (big stat, social proof)
+Product/App Usage (5-10% Pink)
+Where pink shows up sparingly:
+* Command palette trigger (subtle pink glow)
+* Critical notifications (pink dot)
+* Key insight badges (rare)
+* Success confirmations (flash of pink)
+* "Something important" indicators
+Structure:
+* Most UI is white/gray text on dark layers
+* Pink catches the eye when it matters
+* Gold only for deal closed / milestone moments
+* Intelligence through clarity, not color
+
+Writing Style
+Headlines
+Brand Headlines (Clash Display):
+* Short, punchy, confident
+* Can be provocative but never arrogant
+* Often two lines with hierarchy (white + gray)
+* Lead with benefit, not feature
+Examples:
+* "See what your competition can't."
+* "Everyone's Googling. You're knowing."
+* "Map Your Stakeholders. / Navigate Politics."
+Body Copy
+Tone: Direct, intelligent, occasionally playful
+Structure:
+* Short paragraphs (2-3 sentences max)
+* Second person ("you")
+* Active voice
+* Concrete over abstract
+Examples:
+* "Research that used to take 30 minutes? Done. (Seriously, 30 seconds.)"
+* "The dots were always there. We just connected them. You're welcome."
+* "Your competition sees a company. You see the system. Big difference."
+Microcopy
+Success States:
+* "That took you 30 seconds. Their team is still Googling."
+* "Three insights discovered. You're on a roll."
+* "Well, that was easy."
+Empty States:
+* "Ready to see behind the curtain? (No going back.)"
+* "What do you want to know? (And yes, we can find it.)"
+* "Your first insight is 30 seconds away."
+Error States:
+* "Even we can't find that. (But we tried really hard.)"
+* "Hmm. That's not supposed to happen. Give us a sec."
+* "Plot twist: This one's actually private. Impressive security."
+Loading States:
+* "Connecting the dots..."
+* "Reading between the lines..."
+* "Finding what Google can't..."
+
+Brand Applications
+Website
+Structure:
+* Dark background (Deep Space gradient to Dark Navy)
+* Hero with large Clash Display headline
+* Pink CTA button that glows subtly
+* Product screenshots lifted off background
+* Minimal color elsewhere
+* Generous whitespace
+Social Media
+Profile Image: R> icon only (pink > on dark)
+Cover/Header: Dark background with subtle gradient, pink accent
+Posts:
+* Dark backgrounds always
+* Product screenshots with annotations
+* Short, punchy copy
+* Pink used sparingly for emphasis
+* Gold for achievement/milestone posts
+App Icon
+Structure:
+* Dark Navy or Deep Space background
+* R> centered in white and pink
+* No additional elements
+* Clear at all sizes (16px to 1024px)
+Email
+Templates:
+* Dark header with logo
+* White body background (for readability in email clients)
+* Pink CTAs
+* Minimal design, text-focused
+* Clear hierarchy
+
+Technical Specs
+Color Values
+HEX:
+Deep Space:  #0A0D14
+Dark Navy:   #0F1729
+Prussian:    #003153
+Hot Pink:    #FF006E
+Gold:        #FFD700
+White:       #FFFFFF
+Light Gray:  #A1A1AA
+Dark Gray:   #52525B
+RGB:
+Deep Space:  rgb(10, 13, 20)
+Dark Navy:   rgb(15, 23, 41)
+Prussian:    rgb(0, 49, 83)
+Hot Pink:    rgb(255, 0, 110)
+Gold:        rgb(255, 215, 0)
+White:       rgb(255, 255, 255)
+Light Gray:  rgb(161, 161, 170)
+Dark Gray:   rgb(82, 82, 91)
+HSL:
+Hot Pink:    hsl(334, 100%, 50%)
+Gold:        hsl(51, 100%, 50%)
+Accessibility
+Contrast Ratios (WCAG AA Minimum):
+* White on Deep Space: 19.77:1 ✓
+* Hot Pink on Deep Space: 5.89:1 ✓
+* Light Gray on Deep Space: 9.48:1 ✓
+* Hot Pink on White: 3.35:1 ✓ (for large text only)
+Usage Notes:
+* Never use pink text on dark backgrounds for body copy (contrast too low)
+* Pink works for CTAs, badges, and large elements
+* Always use white or light gray for readable text
+* Test all color combinations for accessibility
+Font Loading
+Web:
+/* Clash Display from Fontshare */
+@import url('https://api.fontshare.com/v2/css?f[]=clash-display@700&display=swap');
+
+/* Inter from rsms.me */
+@import url('https://rsms.me/inter/inter.css');
+
+/* JetBrains Mono from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+CSS Variables:
+:root {
+  /* Colors */
+  --color-deep-space: #0A0D14;
+  --color-dark-navy: #0F1729;
+  --color-prussian: #003153;
+  --color-pink: #FF006E;
+  --color-gold: #FFD700;
+  --color-white: #FFFFFF;
+  --color-light-gray: #A1A1AA;
+  --color-dark-gray: #52525B;
+  
+  /* Typography */
+  --font-display: 'Clash Display', sans-serif;
+  --font-ui: 'Inter', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+Quick Reference
+Attribute	Value
+Name	RepOS
+Tagline	Your AI partner who makes you superhuman
+Primary Color	Hot Pink (#FF006E)
+Background	Deep Space (#0A0D14)
+Display Font	Clash Display Bold
+Body Font	Inter Regular
+Logo	White R + Pink >
+Voice	Intelligent revelation with playful confidence
+Vibe	The intelligence club. Seeing behind the curtain. NZT-48 with a smile.
+Version: 1.0Last Updated: October 30, 2025Created by: RepOS Brand Team
